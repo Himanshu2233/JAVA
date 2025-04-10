@@ -9,7 +9,6 @@ class MyClass {
 
     System.out.println("Type another number:");
     y = myObj.nextInt(); // Read user input
-
     sum = x + y;  // Calculate the sum of x + y
     System.out.println("Sum is: " + sum); // Print the sum
   }
